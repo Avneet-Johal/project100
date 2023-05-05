@@ -1,0 +1,26 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: orangered;
+    font-size: 20;
+    font-family: 'Times New Roman', Times, serif;
+}
+ h1{
+ color: firebrick;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#camera
+{
+    width: 500px;
+    height: 400px;
+    border:1px solid grey;
+}
+.column{
+ box-shadow: 0 6px 8px 0 rgb(206, 37, 155);
+
+}
+img:hover{
+  border-radius: 140px;
+}
